@@ -1,11 +1,11 @@
 # PythonLearning
-**Cretaing Virtual env **
+**Cretaing Virtual env**
   1) create the folder 
   2) locate path in command promt 
   3) virtualenv env
- **An virtual env has been created **
+ **An virtual env has been created**
  
- **Activate Virtual Env
+ **Activate Virtual Env**
       goto env folder -scripts and type activate
  
  pip install flask -- for pip installation
