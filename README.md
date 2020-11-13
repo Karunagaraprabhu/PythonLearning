@@ -17,8 +17,7 @@
 
 <br/>
 
-**PIP ENV LINK**
-<br/>
+**PIP ENV LINK**---<br/>
 **https://pipenv-fork.readthedocs.io/en/latest/advanced.html **
 
 <br/>
@@ -27,13 +26,15 @@
 <br/>
 
 **PIPENV**
-<br/>In the project directory, from the command prompt: 
+>In the project directory, from the command prompt: 
 
 <br/>
+
 **pip install pipenv**
 >In the project directory, from the command prompt:
 
 <br/>
+
 **pipenv shell**
 >This will create a specific environment for your project, into which pip components will be installed, which will prevent the components being used on this project from impacting or being included in other projects. This should be called before any work is done on your project from the command prompt.
 
