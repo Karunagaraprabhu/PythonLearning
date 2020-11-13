@@ -16,6 +16,10 @@
   python -m pip install --upgrade pip
 
 
+<br />
+**https://pipenv-fork.readthedocs.io/en/latest/advanced.html**
+
+<br />
 **https://pipenv-fork.readthedocs.io/en/latest/basics.html#:~:text=You%20can%20also%20specify%20%24%20pipenv,pinned%20versions%20in%20your%20Pipfile.**
 
 **PIPENV**
